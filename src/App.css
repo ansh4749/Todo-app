@@ -1,0 +1,13 @@
+input {
+    width: 100%;
+}
+
+
+
+.def-row {
+    margin: 10px 5px;
+}
+
+.def-button {
+    min-width: 80px;
+}
